@@ -1,0 +1,40 @@
+name: "Sample Evaluation Suite"
+description: "A sample evaluation suite for testing LLM quality"
+version: "1.0.0"
+
+tests:
+  - prompt: "What is the capital of France?"
+    reference: "Paris"
+    category: "factual"
+    difficulty: "easy"
+    metadata:
+      domain: "geography"
+      
+  - prompt: "Calculate 25 * 4"
+    reference: "100"
+    category: "math"
+    difficulty: "easy"
+    metadata:
+      domain: "arithmetic"
+      
+  - prompt: "Who wrote 'To Kill a Mockingbird'?"
+    reference: "Harper Lee"
+    category: "factual"
+    difficulty: "medium"
+    metadata:
+      domain: "literature"
+      
+  - prompt: "What is the chemical symbol for iron?"
+    reference: "Fe"
+    category: "science"
+    difficulty: "easy"
+    metadata:
+      domain: "chemistry"
+      
+  - prompt: "Explain quantum entanglement in simple terms."
+    reference: "Quantum entanglement is a phenomenon where two or more particles become correlated in such a way that the state of one particle cannot be described independently of the others."
+    category: "science"
+    difficulty: "hard"
+    metadata:
+      domain: "physics"
+      requires_reasoning: true
