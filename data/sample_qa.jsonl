@@ -1,0 +1,10 @@
+{"prompt": "What is the capital of France?", "reference": "Paris", "category": "factual", "difficulty": "easy"}
+{"prompt": "Who wrote Romeo and Juliet?", "reference": "William Shakespeare", "category": "factual", "difficulty": "easy"}
+{"prompt": "What is 15 multiplied by 23?", "reference": "345", "category": "math", "difficulty": "medium"}
+{"prompt": "What is the largest planet in our solar system?", "reference": "Jupiter", "category": "factual", "difficulty": "easy"}
+{"prompt": "Explain the concept of photosynthesis in one sentence.", "reference": "Photosynthesis is the process by which plants convert light energy into chemical energy to produce glucose from carbon dioxide and water.", "category": "science", "difficulty": "medium"}
+{"prompt": "What year did World War II end?", "reference": "1945", "category": "historical", "difficulty": "easy"}
+{"prompt": "Calculate the square root of 144", "reference": "12", "category": "math", "difficulty": "easy"}
+{"prompt": "What is the chemical symbol for gold?", "reference": "Au", "category": "science", "difficulty": "easy"}
+{"prompt": "Who painted the Mona Lisa?", "reference": "Leonardo da Vinci", "category": "factual", "difficulty": "easy"}
+{"prompt": "What is the speed of light in vacuum?", "reference": "299792458 meters per second", "category": "science", "difficulty": "hard"}
